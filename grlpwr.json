@@ -1,0 +1,71 @@
+[
+    {
+        "id": 1,
+        "nome": "Hedy Lamarr",
+        "descricao": "É considerada a inventora do salto de frequência, uma técnica que evita a interceptação de mensagens.",
+        "leiamais": "https://pt.wikipedia.org/wiki/Hedy_Lamarr"
+    },
+   
+    {
+        "id": 2,
+        "nome": "Ada Lovelace",
+        "descricao": "É considerada a primeira programadora da História fazendo um algoritmo para a Máquina Analítica computar a Sequência de Bernoulli.",
+        "leiamais": "https://pt.wikipedia.org/wiki/Ada_Lovelace"
+    },
+
+    {
+        "id": 3,
+        "nome": "Grace Hopper",
+        "descricao": "Programou o primeiro computador digital de larga escala e criou o primeiro compilador.",
+        "leiamais": "https://pt.wikipedia.org/wiki/Grace_Hopper"
+      },
+    
+    {
+        "id": 4,
+        "nome": "Irmã Mary Kenneth Keller",
+        "descricao": "Primeira mulher a ter um doutorado em computação nos EUA",
+        "leiamais": "https://pt.wikipedia.org/wiki/Mary_Kenneth_Keller"
+      },
+
+    {
+        "id": 5,
+        "nome": "Katherine Johnson",
+        "descricao": "É responsável pelos cálculos para que o astronauta John Glenn fosse colocado em órbita, em 1962.",
+        "leiamais": "https://pt.wikipedia.org/wiki/Katherine_Johnson"
+      },
+    
+    {
+        "id": 6,
+        "nome": "Radia Perlman",
+        "descricao": "Considerada a “mãe da internet”, ganhou esse título por conta do desenvolvimento do protocolo STP ",
+        "leiamais": "https://pt.wikipedia.org/wiki/Radia_Perlman"
+      },
+
+    {
+        "id": 7,
+        "nome": "Susan Wojcicki",
+        "descricao": "Atual diretora do YouTube, já foi diretora de marketing do Google e foi responsável por criar produtos extremamente rentáveis para a marca, como, por exemplo, o Google Fotos, o AdSense, o AdWords e o Analytics.",
+        "leiamais": "https://pt.wikipedia.org/wiki/Susan_Wojcicki"
+      },
+
+    {
+        "id": 8,
+        "nome": "Katie Bouman",
+        "descricao": "Foi a responsável por liderar a criação de um algoritmo capaz de compreender os dados astronômicos e obter a primeira foto de um buraco negro.",
+        "leiamais": "https://pt.wikipedia.org/wiki/Katie_Bouman"
+      },
+
+    {
+        "id": 9,
+        "nome": "Karen Spärck Jones",
+        "descricao": "Pioneira na Recuperação de Informação, IR, através do desenvolvimento do conceito de Frequência Inversa do Termo, base para os sistemas de busca e localização de conteúdo.",
+        "leiamais": "https://pt.wikipedia.org/wiki/Karen_Sp%C3%A4rck_Jones"
+      },
+
+    {
+        "id": 10,
+        "nome": "Carol Shaw",
+        "descricao": "Primeira mulher a trabalhar na indústria dos games, foi uma das funcionárias originais da Atari.",
+        "leiamais": "https://pt.wikipedia.org/wiki/Carol_Shaw"
+      }
+]
