@@ -12,7 +12,7 @@ app.get('/grlpwr', function(req, res){
 
 app.get('/grlpwr/:id', function(req, res){
     const id = parseInt(req.params.id);
-    const encontrar = grlpwrserver.find(info => info.id == id);
+    const encontrar = grlpwr.find(info => info.id == id);
 
     if(!encontrar) return res.status(204).json();
 
